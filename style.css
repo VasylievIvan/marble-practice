@@ -176,17 +176,21 @@ hr {
   margin-top: 23px;
 }
 
-.qote {
-  height: 230px;
-  background-color: #EFEFEF;
-  font-family: RobotoSlab;
-  font-size: 20px;
-  line-height: 1.5;
-  text-align: center;
-  color: #a1a1a1;
-  margin-top: 602px;
-}
-
 .qote p {
   padding-top: 50px;
+}
+
+.footer {
+  height: 70px;
+  background-color: #EFEFEF;
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.57;
+  text-align: left;
+  color: #454545;
+  text-align: center;
+}
+
+.footer p {
+  padding-top: 25px;
 }
